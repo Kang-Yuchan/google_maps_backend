@@ -1,0 +1,1782 @@
+{
+  "stores": [{
+    "recommendation": {},
+    "storeNumber": "32662-137352",
+    "id": "3638",
+    "name": "AEON MALL Sakudaira",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.27585,
+      "longitude": 138.463647
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "11-10 Sakudairaekiminami",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Saku",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "385-0029"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["11-10 Sakudairaekiminami", "Saku, 20 385-0029"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-mall-sakudaira-11-10-sakudairaekiminami-saku-20-385-0029-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30552-95906",
+    "id": "3535",
+    "name": "AEON Ueda",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.392007,
+      "longitude": 138.257985
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2-12-18 Tokida",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Ueda",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "386-0018"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2-12-18 Tokida", "Ueda, 20 386-0018"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-ueda-2-12-18-tokida-ueda-20-386-0018-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "15273-156405",
+    "id": "20157",
+    "name": "Ario Ueda",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.399322,
+      "longitude": 138.244092
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "3-5-1 Tenjin",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Ueda",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "386-0025"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 0,
+      "windowsTimeZoneId": "UTC",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["3-5-1 Tenjin", "Ueda, 20 386-0025"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "ario-ueda-3-5-1-tenjin-ueda-20-386-0025-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "57177-291192",
+    "id": "1024961",
+    "name": "Frespo Saku Inter",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.284071,
+      "longitude": 138.480664
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-22-3 Iwamuradakita",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Saku",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "385-0023"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-22-3 Iwamuradakita", "Saku, 20 385-0023"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "frespo-saku-inter-1-22-3-iwamuradakita-saku-20-385-0023-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "59349-293561",
+    "id": "1026019",
+    "name": "Ueda Chuo",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.407123,
+      "longitude": 138.258197
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-2173-1 Chuo-kita",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Ueda",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "386-0011"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-2173-1 Chuo-kita", "Ueda, 20 386-0011"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "ueda-chuo-1-2173-1-chuo-kita-ueda-20-386-0011-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "21305-210704",
+    "id": "1008226",
+    "name": "Suwa Jonan",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.03046,
+      "longitude": 138.120605
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2-2312-1 Jonan",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Suwa",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "392-0017"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2-2312-1 Jonan", "Suwa, 20 392-0017"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "suwa-jonan-2-2312-1-jonan-suwa-20-392-0017-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "47368-254608",
+    "id": "1015483",
+    "name": "Lake Walk Okaya",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.065373,
+      "longitude": 138.051689
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-1-5 Ginza",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Okaay",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "394-0022"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-1-5 Ginza", "Okaay, 20 394-0022"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "lake-walk-okaya-1-1-5-ginza-okaay-20-394-0022-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "53470-285647",
+    "id": "1020642",
+    "name": "Matsumoto Shonai",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.217557,
+      "longitude": 137.979326
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-1-3 Idegawa",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Matsumoto",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "390-0827"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-1-3 Idegawa", "Matsumoto, 20 390-0827"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "matsumoto-shonai-1-1-3-idegawa-matsumoto-20-390-0827-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "32467-137778",
+    "id": "4152",
+    "name": "TSUTAYA Higashi Matsumoto",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.239835,
+      "longitude": 137.980822
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-2-1 Motomachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Matsumoto",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "390-0803"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-2-1 Motomachi", "Matsumoto, 20 390-0803"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "tsutaya-higashi-matsumoto-1-2-1-motomachi-matsumoto-20-390-0803-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "16823-170424",
+    "id": "69875",
+    "name": "Suwako Service Area (Up lane)",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.02705,
+      "longitude": 138.077742
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "3171 Tokokubo Toyoda",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Suwa",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "392-0016"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["3171 Tokokubo Toyoda", "Suwa, 20 392-0016"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "suwako-service-area-up-lane-3171-tokokubo-toyoda-suwa-20-392-0016-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "51150-277378",
+    "id": "1018555",
+    "name": "AEON MALL Matsumoto",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.232888,
+      "longitude": 137.971151
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "4-9-51, Chuo",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Matsumoto",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "390-0811"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["4-9-51, Chuo", "Matsumoto, 20 390-0811"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-mall-matsumoto-4-9-51-chuo-matsumoto-20-390-0811-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "29253-253146",
+    "id": "1014523",
+    "name": "Matsumoto Hirata",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.189645,
+      "longitude": 137.964212
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2-18-14 Hirata Higashi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Matsumoto",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "399-0014"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2-18-14 Hirata Higashi", "Matsumoto, 20 399-0014"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "matsumoto-hirata-2-18-14-hirata-higashi-matsumoto-20-399-0014-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "31816-123364",
+    "id": "4315",
+    "name": "MIDORI Matsumoto",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.230946,
+      "longitude": 137.964528
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-1-1 Fukashi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Matsumoto",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "390-0815"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-1-1 Fukashi", "Matsumoto, 20 390-0815"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "midori-matsumoto-1-1-1-fukashi-matsumoto-20-390-0815-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30543-93817",
+    "id": "3459",
+    "name": "Matsumoto Nagisa Life Site",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.232015,
+      "longitude": 137.955864
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-7-1 Nagisa",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Matsumoto",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "390-0841"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-7-1 Nagisa", "Matsumoto, 20 390-0841"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "matsumoto-nagisa-life-site-1-7-1-nagisa-matsumoto-20-390-0841-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "3688-145584",
+    "id": "4230",
+    "name": "Azusagawa Service Area Up Lane",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.27064,
+      "longitude": 137.931797
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "961-1 Takibe Toyoshina",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Azumino",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "399-8204"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["961-1 Takibe Toyoshina", "Azumino, 20 399-8204"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "azusagawa-service-area-up-lane-961-1-takibe-toyoshina-azumino-20-399-8204-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "60545-294831",
+    "id": "1027254",
+    "name": "Azumino Toyoshina",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.30123,
+      "longitude": 137.917577
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "629-11 Toyoshina-minamihotaka",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Azumino",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "399-8201"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["629-11 Toyoshina-minamihotaka", "Azumino, 20 399-8201"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "azumino-toyoshina-629-11-toyoshina-minamihotaka-azumino-20-399-8201-"
+  }, {
+    "recommendation": {},
+    "storeNumber": "54284-286564",
+    "id": "1021818",
+    "name": "Chikuma",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.509191,
+      "longitude": 138.134062
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "736-1 Uchikawa",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chikuma",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "389-0802"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["736-1 Uchikawa", "Chikuma, 20 389-0802"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "chikuma-736-1-uchikawa-chikuma-20-389-0802-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30542-93695",
+    "id": "3458",
+    "name": "KARUIZAWA PRINCE SHOPPING PLAZA",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.341963,
+      "longitude": 138.637725
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "Karuizawa Karuizawa-machi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Karuizawa-machi",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "389-0102"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Karuizawa Karuizawa-machi", "Karuizawa-machi, 20 389-0102"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "karuizawa-prince-shopping-plaza-karuizawa-karuizawa-machi-karuizawa-machi-20-389-0"
+  }, {
+    "recommendation": {},
+    "storeNumber": "23742-233286",
+    "id": "1009380",
+    "name": "Nagano Kawanakajima",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.609848,
+      "longitude": 138.170585
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "963-1 Inasatomachi-nakahigano",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Nagano",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "381-2215"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["963-1 Inasatomachi-nakahigano", "Nagano, 20 381-2215"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "nagano-kawanakajima-963-1-inasatomachi-nakahigano-nagano-20-381-2215-j"
+  }, {
+    "recommendation": {},
+    "storeNumber": "1832-138646",
+    "id": "4325",
+    "name": "Yokokawa Service Area (Up Lane)",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.340167,
+      "longitude": 138.740955
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "917 Yokokawa Matsuidamachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Annaka",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "379-0301"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": -480,
+      "windowsTimeZoneId": "Alaskan Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["917 Yokokawa Matsuidamachi", "Annaka, 10 379-0301"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "yokokawa-service-area-up-lane-917-yokokawa-matsuidamachi-annaka-10-379-0301-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "3987-151886",
+    "id": "19186",
+    "name": "Nagano Minamitakada",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.642895,
+      "longitude": 138.223029
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-16-7 Minamitakada",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Nagano",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "381-0033"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-16-7 Minamitakada", "Nagano, 20 381-0033"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "nagano-minamitakada-1-16-7-minamitakada-nagano-20-381-0033-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "26382-214684",
+    "id": "1011702",
+    "name": "MIDORI NAGANO",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.643754,
+      "longitude": 138.188515
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1-22-6 Minamichitose",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Nagano",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "380-8543"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1-22-6 Minamichitose", "Nagano, 20 380-8543"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "midori-nagano-1-22-6-minamichitose-nagano-20-380-8543-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30484-87342",
+    "id": "3491",
+    "name": "Nagano Eki-mae",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.644957,
+      "longitude": 138.187986
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "826 Minamichitosecho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Nagano",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "380-0822"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["826 Minamichitosecho", "Nagano, 20 380-0822"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "nagano-eki-mae-826-minamichitosecho-nagano-20-380-0822-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "50464-274847",
+    "id": "1018410",
+    "name": "Ina Nice Road",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.828056,
+      "longitude": 137.962032
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2405-1 Kamishinden",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Ina",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "396-0012"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2405-1 Kamishinden", "Ina, 20 396-0012"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "ina-nice-road-2405-1-kamishinden-ina-20-396-0012-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "60496-293715",
+    "id": "1027867",
+    "name": "Shinshu Zenkoji Nakamise-dori",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.658909,
+      "longitude": 138.187677
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "483 Motoyoshicho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Nagano",
+      "countrySubdivisionCode": "20",
+      "countryCode": "JP",
+      "postalCode": "380-0851"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["483 Motoyoshicho", "Nagano, 20 380-0851"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "shinshu-zenkoji-nakamise-dori-483-motoyoshicho-nagano-20-380-0851-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "56372-289736",
+    "id": "1025188",
+    "name": "Tomioka",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.263025,
+      "longitude": 138.900283
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1894-7 Tomioka",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Tomioka",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-2316"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1894-7 Tomioka", "Tomioka, 10 370-2316"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "tomioka-1894-7-tomioka-tomioka-10-370-2316-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "1844-141128",
+    "id": "4184",
+    "name": "L'AZA WALK Kai Futaba",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.684593,
+      "longitude": 138.485413
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "645-1 Kakiki Shida",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Kai",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "400-0107"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["645-1 Kakiki Shida", "Kai, 19 400-0107"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "laza-walk-kai-futaba-645-1-kakiki-shida-kai-19-400-0107-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "1821-138177",
+    "id": "3660",
+    "name": "Kofu Alps-dori",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.650959,
+      "longitude": 138.543269
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "59-12 Shimizuarai",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Showa-cho",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "409-3867"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["59-12 Shimizuarai", "Showa-cho, 19 409-3867"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "kofu-alps-dori-59-12-shimizuarai-showa-cho-19-409-3867-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "15271-155293",
+    "id": "20052",
+    "name": "AEON MALL Kofu Showa",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.623114,
+      "longitude": 138.527135
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1 Joei-tochikukakuseiri",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Showa-cho",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "409-3852"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 0,
+      "windowsTimeZoneId": "UTC",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1 Joei-tochikukakuseiri", "Showa-cho, 19 409-3852"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-mall-kofu-showa-1-joei-tochikukakuseiri-showa-cho-19-409-3852-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "51703-279065",
+    "id": "1020105",
+    "name": "Takasaki OPA",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.323737,
+      "longitude": 139.011065
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "46-1 Yashimacho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-0849"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["46-1 Yashimacho", "Takasaki, 10 370-0849"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "takasaki-opa-46-1-yashimacho-takasaki-10-370-0849-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "56647-290550",
+    "id": "1022881",
+    "name": "AEON MALL Kofu Showa 3F",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.623074,
+      "longitude": 138.527346
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1505-1 Ikkui Shouwacho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "TBD",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "409-3852"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1505-1 Ikkui Shouwacho", "TBD, 19 409-3852"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-mall-kofu-showa-3-f-1505-1-ikkui-shouwacho-tbd-19-409-3852-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "59348-293560",
+    "id": "1026145",
+    "name": "Kofu Heiwa-dori",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.636261,
+      "longitude": 138.566774
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2-6-17 Sumiyoshi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Kofu",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "400-0851"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2-6-17 Sumiyoshi", "Kofu, 19 400-0851"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "kofu-heiwa-dori-2-6-17-sumiyoshi-kofu-19-400-0851-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30247-48139",
+    "id": "3778",
+    "name": "Takasaki Station Bldg. Montres",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.322882,
+      "longitude": 139.011817
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "222 Yajimacho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-0849"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["222 Yajimacho", "Takasaki, 10 370-0849"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "takasaki-station-bldg-montres-222-yajimacho-takasaki-10-370-0849-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "13019-155772",
+    "id": "19372",
+    "name": "E'site Takasaki",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.321948,
+      "longitude": 139.013517
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "222 Yashimacho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-0849"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 0,
+      "windowsTimeZoneId": "UTC",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["222 Yashimacho", "Takasaki, 10 370-0849"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "esite-takasaki-222-yashimacho-takasaki-10-370-0849-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30580-98078",
+    "id": "3555",
+    "name": "Kofu River City",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.614878,
+      "longitude": 138.512977
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1122 Yamanokami",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chuo",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "409-3845"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1122 Yamanokami", "Chuo, 19 409-3845"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "kofu-river-city-1122-yamanokami-chuo-19-409-3845-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "16127-165466",
+    "id": "68447",
+    "name": "Kofu Wado-dori",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.648425,
+      "longitude": 138.612525
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "172-4 Mukomachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Kofu",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "400-0813"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["172-4 Mukomachi", "Kofu, 19 400-0813"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "kofu-wado-dori-172-4-mukomachi-kofu-19-400-0813-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "61540-296041",
+    "id": "1028089",
+    "name": "AEON MALL Takasaki 2F",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.3905,
+      "longitude": 139.006718
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1400 Munadakamachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-3521"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1400 Munadakamachi", "Takasaki, 10 370-3521"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-mall-takasaki-2-f-1400-munadakamachi-takasaki-10-370-3521-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "31336-107737",
+    "id": "3576",
+    "name": "AEON MALL Takasaki",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.39036,
+      "longitude": 139.007357
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1400 Munadaka-machi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-3521"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1400 Munadaka-machi", "Takasaki, 10 370-3521"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "aeon-mall-takasaki-1400-munadaka-machi-takasaki-10-370-3521-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "31544-111250",
+    "id": "3620",
+    "name": "University of Yamanashi Hospital",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 35.609911,
+      "longitude": 138.539141
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1110 Shimokato",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chuo",
+      "countrySubdivisionCode": "19",
+      "countryCode": "JP",
+      "postalCode": "409-3898"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1110 Shimokato", "Chuo, 19 409-3898"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "university-of-yamanashi-hospital-1110-shimokato-chuo-19-409-3898-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "32393-137527",
+    "id": "4154",
+    "name": "Takasaki Kaizawa",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.339164,
+      "longitude": 139.027428
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1327-3 Kaizawamachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-0042"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1327-3 Kaizawamachi", "Takasaki, 10 370-0042"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "takasaki-kaizawa-1327-3-kaizawamachi-takasaki-10-370-0042-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "23190-228550",
+    "id": "1010413",
+    "name": "Takasaki Kaminakai",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.321581,
+      "longitude": 139.033758
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "1379 Kaminakaimachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Takasaki",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-0851"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1379 Kaminakaimachi", "Takasaki, 10 370-0851"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "takasaki-kaminakai-1379-kaminakaimachi-takasaki-10-370-0851-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "30589-95542",
+    "id": "4250",
+    "name": "CAINZ HOME Maebashi Yoshioka",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.420071,
+      "longitude": 139.026152
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "821 Okubo",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Yoshioka-machi",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "370-3602"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["821 Okubo", "Yoshioka-machi, 10 370-3602"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "cainz-home-maebashi-yoshioka-821-okubo-yoshioka-machi-10-370-3602-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "50179-273350",
+    "id": "1018680",
+    "name": "Maebashi Motosoja",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.392814,
+      "longitude": 139.038547
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2-3-10 Motosojamachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Maebashi",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "371-0846"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2-3-10 Motosojamachi", "Maebashi, 10 371-0846"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "maebashi-motosoja-2-3-10-motosojamachi-maebashi-10-371-0846-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "59532-293564",
+    "id": "1027929",
+    "name": "Shikishima Park",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.415804,
+      "longitude": 139.050168
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "77 Shikishimacho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Maebashi",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "371-0036"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["77 Shikishimacho", "Maebashi, 10 371-0036"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "shikishima-park-77-shikishimacho-maebashi-10-371-0036-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "31573-111625",
+    "id": "3614",
+    "name": "Keyaki Walk Maebashi",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.379047,
+      "longitude": 139.078186
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "2-1-1 Bunkyocho",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Maebashi",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "371-0801"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["2-1-1 Bunkyocho", "Maebashi, 10 371-0801"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "keyaki-walk-maebashi-2-1-1-bunkyocho-maebashi-10-371-0801-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "15784-159164",
+    "id": "65771",
+    "name": "POWER MALL Maebashi-minami",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.329353,
+      "longitude": 139.098042
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "938 Niiborimachi",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Maebashi",
+      "countrySubdivisionCode": "10",
+      "countryCode": "JP",
+      "postalCode": "379-2143"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["938 Niiborimachi", "Maebashi, 10 379-2143"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [{
+      "code": "DT",
+      "name": "Drive-Thru"
+    }],
+    "slug": "power-mall-maebashi-minami-938-niiborimachi-maebashi-10-379-2143-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "32146-133165",
+    "id": "3634",
+    "name": "Kamisato Service Area (Down Lane)",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.254695,
+      "longitude": 139.11908
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "820 Gomyo",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Kamisato-machi",
+      "countrySubdivisionCode": "11",
+      "countryCode": "JP",
+      "postalCode": "369-0317"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["820 Gomyo", "Kamisato-machi, 11 369-0317"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "kamisato-service-area-down-lane-820-gomyo-kamisato-machi-11-369-0317-jp"
+  }, {
+    "recommendation": {},
+    "storeNumber": "32082-132227",
+    "id": "4354",
+    "name": "Kamisato Service Area (Up Lane)",
+    "phoneNumber": null,
+    "coordinates": {
+      "latitude": 36.255998,
+      "longitude": 139.119773
+    },
+    "regulations": [],
+    "address": {
+      "streetAddressLine1": "849-1 Gomyo",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Kamisato-machi",
+      "countrySubdivisionCode": "11",
+      "countryCode": "JP",
+      "postalCode": "369-0317"
+    },
+    "timeZoneInfo": {
+      "currentTimeOffset": 540,
+      "windowsTimeZoneId": "Tokyo Standard Time",
+      "olsonTimeZoneId": "GMT+09:00 Asia/Tokyo"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["849-1 Gomyo", "Kamisato-machi, 11 369-0317"],
+    "mop": {
+      "ready": false,
+      "wait": null
+    },
+    "features": [],
+    "slug": "kamisato-service-area-up-lane-849-1-gomyo-kamisato-machi-11-369-0317-jp"
+  }]
+}
