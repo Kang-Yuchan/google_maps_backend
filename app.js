@@ -21,10 +21,39 @@ app.use(
 );
 
 app.post("/api/stores", (req, res) => {
-  const dbStores = req.body;
-  console.log(dbStores);
-  res.send("You have posted!");
+  let dbStores = [];
+  let stores = req.body;
+  stores.forEach(store => {
+    dbStores.push({
+      storeName: store.name,
+      phoneNumber: store.phoneNumber,
+      address: store.address,
+      openStatusText: store.openStatusText,
+      addressLines: store.addressLines,
+      location: {
+        type: 'Point',
+        coordinates: [
+          store.coordinates.latitude,
+          store.coordinates.longitude
+        ]
+      }
+    })
+  })
+  Store.create(dbStores, (err, stores) => {
+    if (err) {
+      return res.status(500).send(err);
+    } else {
+      return res.status(200).send(stores);
+    }
+  })
+  return res.send("You have posted!");
 });
+
+app.delete("/api/stores", (req, res) => {
+  Store.deleteMany({}, err => {
+    res.status(200).send(err);
+  })
+})
 
 app.get("/", (req, res) => {
   res.send("Oh fuck~");
