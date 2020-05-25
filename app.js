@@ -1,12 +1,14 @@
 import express from "express";
 import mongoose from "mongoose";
+import Store from "./api/models/store";
+
+
 const app = express();
 const PORT = 4000;
-const adminPw = "5WaAV3ePLG0TXAyi";
+const ADMIN_PASSWORD = "5WaAV3ePLG0TXAyi";
 
 mongoose.connect(
-  `mongodb+srv://yuchan:${adminPw}@cluster0-nyivz.mongodb.net/test?retryWrites=true&w=majority`,
-  {
+  `mongodb+srv://yuchan:${ADMIN_PASSWORD}@cluster0-nyivz.mongodb.net/test?retryWrites=true&w=majority`, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   }
@@ -21,7 +23,7 @@ app.use(
 app.post("/api/stores", (req, res) => {
   const dbStores = req.body;
   console.log(dbStores);
-  res.send(dbStores);
+  res.send("You have posted!");
 });
 
 app.get("/", (req, res) => {
