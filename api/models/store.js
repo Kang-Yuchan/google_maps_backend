@@ -19,6 +19,18 @@ const storeSchema = mongoose.Schema({
   },
 });
 
-storeSchema.index({ location: "2dsphere" }, { sparse: true });
+storeSchema.index({
+  location: "2dsphere"
+}, {
+  sparse: true
+});
+
+const Store = mongoose.model("Store", storeSchema);
+
+Store.on("index", (error) => {
+  if (error) {
+    console.log(error);
+  }
+});
 
 export default mongoose.model("Store", storeSchema);

@@ -8,8 +8,7 @@ const PORT = 4000;
 const ADMIN_PASSWORD = "5WaAV3ePLG0TXAyi";
 
 mongoose.connect(
-  `mongodb+srv://yuchan:${ADMIN_PASSWORD}@cluster0-nyivz.mongodb.net/test?retryWrites=true&w=majority`,
-  {
+  `mongodb+srv://yuchan:${ADMIN_PASSWORD}@cluster0-nyivz.mongodb.net/test?retryWrites=true&w=majority`, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
@@ -39,7 +38,7 @@ app.post("/api/stores", (req, res) => {
       addressLines: store.addressLines,
       location: {
         type: "Point",
-        coordinates: [store.coordinates.latitude, store.coordinates.longitude],
+        coordinates: [store.coordinates.longitude, store.coordinates.latitude],
       },
     });
   });
@@ -57,20 +56,19 @@ app.get("/api/stores", (req, res) => {
   const zipCode = req.query.zip_code;
   const googleMapsURL = "https://maps.googleapis.com/maps/api/geocode/json";
   Axios.get(googleMapsURL, {
-    params: {
-      address: zipCode,
-      key: "AIzaSyA_2tf19OiLby7_m06kUpjQ_ivdhR3JYUM",
-    },
-  })
+      params: {
+        address: zipCode,
+        key: "AIzaSyA_2tf19OiLby7_m06kUpjQ_ivdhR3JYUM",
+      },
+    })
     .then((response) => {
       const data = response.data;
       const coordinates = [
-        data.results[0].geometry.location.lat,
         data.results[0].geometry.location.lng,
+        data.results[0].geometry.location.lat,
       ];
 
-      Store.find(
-        {
+      Store.find({
           location: {
             $near: {
               $maxDistance: 3218,
