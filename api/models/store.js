@@ -9,14 +9,16 @@ const storeSchema = mongoose.Schema({
   location: {
     type: {
       type: String,
-      enum: ['Point'],
-      required: true
+      enum: ["Point"],
+      required: true,
     },
     coordinates: {
       type: [Number],
-      required: true
-    }
-  }
-})
+      required: true,
+    },
+  },
+});
 
-export default mongoose.model('Store', storeSchema);
+storeSchema.index({ location: "2dsphere" }, { sparse: true });
+
+export default mongoose.model("Store", storeSchema);
